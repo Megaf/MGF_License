@@ -1,0 +1,2 @@
+To use this license simply copy the file MGF_LICENSE as LICENSE or LICENSE.txt and ship it/attach to/use with your thing.
+REMEMBER to add your name/nick and email to the head of the license!
